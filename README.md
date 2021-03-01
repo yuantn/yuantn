@@ -7,10 +7,10 @@
 
 - 📧 Feel free to contact me [here](https://github.com/yuantn/yuantn/issues) or via yuantianning19@mails.ucas.ac.cn.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yuantn&repo=MIAL&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/yuantn/MIAL)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yuantn&repo=MIAL&show_owner=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000)](https://github.com/yuantn/MIAL)
 
 #### My Github statistics:
-[![Tianning Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuantn&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=00000000)](https://github.com/yuantn) 
+[![Tianning Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuantn&show_icons=true&include_all_commits=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000)](https://github.com/yuantn) 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuantn&layout=compact&theme=merko)](https://github.com/yuantn)
