@@ -19,17 +19,17 @@
 
 #### Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/pytorch.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/numpy.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/vim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/matlab.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/latex.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/pytorch.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/numpy.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/vim.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/terminal.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/matlab.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/latex.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/ubuntu.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/cpp.png"></code>
 
 <!--
 **yuantn/yuantn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
