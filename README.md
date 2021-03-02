@@ -26,7 +26,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/matlab.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/latex.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/git_tp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/ubuntu.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/cpp.png"></code>
