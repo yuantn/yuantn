@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Tianning Yuan](https://yuantn.github.io/). <a href="https://twitter.com/yuantn1996"><img src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/twitter_tp.png" width="20px"></a>
+## Hi there 👋, I'm [Tianning Yuan](https://yuantn.github.io/). <a href="https://twitter.com/yuantn1996"><img src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/twitter_tp.png" width="20px"></a><a href="https://www.linkedin.com/in/yuantn/"><img src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/LinkedIn.png" width="20px"></a>
 
 ### About Me
 - 🎓 I am a master student in [Pattern Recognition and Intelligent System Development Laboratory (PriSDL)](http://lamp.ucas.ac.cn) at [University of Chinese Academy of Sciences (UCAS)](http://english.ucas.ac.cn/), advised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~qxye?language=en).
