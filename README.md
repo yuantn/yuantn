@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm [Tianning Yuan](https://yuantn.github.io/). <a href="https://twitter.com/yuantn1996"><img src="assets/twitter_tp.png" width="20px"></a> <a href="https://scholar.google.com/citations?user=UBF4wosAAAAJ"><img src="assets/GoogleScholar.png" width="20px"></a>  <a href="https://www.linkedin.com/in/yuantn"> <img src="assets/LinkedIn.png" width="20px"></a>
 
 ### About Me
-- 🎓 I am a master candidate in [Pattern Recognition and Intelligent System Development Laboratory (PriSDL)](http://lamp.ucas.ac.cn) at [University of Chinese Academy of Sciences (UCAS)](http://english.ucas.ac.cn/), advised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~qxye?language=en).
+- 🎓 I am a master candidate in [Pattern Recognition and Intelligent System Development Laboratory (PriSDL)](http://lamp.ucas.ac.cn/intro_en.html?lang=en) at [University of Chinese Academy of Sciences (UCAS)](http://english.ucas.ac.cn/), advised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~qxye?language=en).
 
 - 📚 My research interests include computer vision and machine learning, specifically for active learning and feature learning.
 
