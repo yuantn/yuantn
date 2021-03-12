@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Tianning Yuan](https://yuantn.github.io/). <a href="https://twitter.com/yuantn1996"><img src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/twitter_tp.png" width="20px"></a> <a href="https://scholar.google.com/citations?user=UBF4wosAAAAJ"><img src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/GoogleScholar.png" width="20px"></a>  <a href="https://www.linkedin.com/in/yuantn"> <img src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/LinkedIn.png" width="20px"></a>
+## Hi there 👋, I'm [Tianning Yuan](https://yuantn.github.io/). <a href="https://twitter.com/yuantn1996"><img src="assets/twitter_tp.png" width="20px"></a> <a href="https://scholar.google.com/citations?user=UBF4wosAAAAJ"><img src="assets/GoogleScholar.png" width="20px"></a>  <a href="https://www.linkedin.com/in/yuantn"> <img src="assets/LinkedIn.png" width="20px"></a>
 
 ### About Me
 - 🎓 I am a master student in [Pattern Recognition and Intelligent System Development Laboratory (PriSDL)](http://lamp.ucas.ac.cn) at [University of Chinese Academy of Sciences (UCAS)](http://english.ucas.ac.cn/), advised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~qxye?language=en).
@@ -19,17 +19,17 @@
 
 ### Languages and Tools
 
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/pytorch.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/numpy.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/vim.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/terminal.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/matlab.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/latex_wt.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/ubuntu.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/c.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yuantn/yuantn/master/assets/cpp.png"></code>
+<code><img height="40" src="assets/python.png"></code>
+<code><img height="40" src="assets/pytorch.png"></code>
+<code><img height="40" src="assets/numpy.png"></code>
+<code><img height="40" src="assets/vim.png"></code>
+<code><img height="40" src="assets/terminal.png"></code>
+<code><img height="40" src="assets/matlab.png"></code>
+<code><img height="40" src="assets/latex_wt.png"></code>
+<code><img height="40" src="assets/git.png"></code>
+<code><img height="40" src="assets/ubuntu.png"></code>
+<code><img height="40" src="assets/c.png"></code>
+<code><img height="40" src="assets/cpp.png"></code>
 
 <!--
 **yuantn/yuantn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
