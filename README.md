@@ -22,6 +22,8 @@
 <code><img height="40" src="assets/python.png"></code>
 <code><img height="40" src="assets/pytorch.png"></code>
 <code><img height="40" src="assets/numpy.png"></code>
+<code><img height="40" src="assets/matplotlib.png"></code>
+<code><img height="40" src="assets/scikit-learn.png"></code>
 <code><img height="40" src="assets/vim.png"></code>
 <code><img height="40" src="assets/terminal.png"></code>
 <code><img height="40" src="assets/matlab.png"></code>
