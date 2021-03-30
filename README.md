@@ -26,11 +26,11 @@
 <code><img height="40" src="assets/numpy.png"></code>
 <code><img height="40" src="assets/matplotlib.png"></code>
 <code><img height="40" src="assets/scikit-learn.png"></code>
-<code><img height="40" src="assets/vim.png"></code>
-<code><img height="40" src="assets/terminal.png"></code>
+<!-- <code><img height="40" src="assets/vim.png"></code> -->
+<!-- <code><img height="40" src="assets/terminal.png"></code> -->
 <code><img height="40" src="assets/matlab.png"></code>
 <code><img height="40" src="assets/latex_wt.png"></code>
-<code><img height="40" src="assets/git.png"></code>
+<!-- <code><img height="40" src="assets/git.png"></code> -->
 <code><img height="40" src="assets/ubuntu.png"></code>
 <code><img height="40" src="assets/c.png"></code>
 <code><img height="40" src="assets/cpp.png"></code>
