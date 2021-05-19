@@ -3,7 +3,7 @@
 ### About Me
 - 🎓 I am a master candidate in [Pattern Recognition and Intelligent System Development Laboratory (PriSDL)](http://lamp.ucas.ac.cn/intro_en.html?lang=en) at [University of Chinese Academy of Sciences (UCAS)](http://english.ucas.ac.cn/), supervised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~qxye?language=en).
 
-- 📚 My research interests include computer vision and machine learning, specifically for active learning and feature learning. I am opening to all other interesting topics.
+- 📚 My research interests include computer vision and machine learning, specifically for active learning, feature learning and visual object detection. I am opening to all other interesting topics.
 
 - 📧 Feel free to contact me [here](https://github.com/yuantn/yuantn/issues) or via yuantianning19@mails.ucas.ac.cn.
 
