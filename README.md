@@ -1,13 +1,14 @@
 ## Hi there 👋, I'm [Tianning Yuan](https://yuantn.github.io/). <a href="https://twitter.com/yuantn1996"><img src="assets/twitter_tp.png" width="20px"></a> <a href="https://scholar.google.com/citations?user=UBF4wosAAAAJ"><img src="assets/GoogleScholar.png" width="20px"></a>  <a href="https://www.linkedin.com/in/yuantn"> <img src="assets/LinkedIn.png" width="20px"></a>
 
 ### About Me
-- 🎓 I am a master candidate in [Pattern Recognition and Intelligent System Development Laboratory (PriSDL)](http://lamp.ucas.ac.cn/intro_en.html?lang=en) at [University of Chinese Academy of Sciences (UCAS)](http://english.ucas.ac.cn/), supervised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~qxye?language=en).
 
-- 🏢 I am now an algorithm intern at [Noah's Ark Lab](https://www.noahlab.com.hk) in [Huawei Technologies Co., Ltd.](https://www.huawei.com/en).
+- 🏢 I am an Algorithm Engineer at [Noah's Ark Lab](https://www.noahlab.com.hk) in [Huawei Technologies Co., Ltd.](https://www.huawei.com/en). My project leader is [Xinghao Chen](https://www.xinghaochen.xyz). 
 
-- 📚 My research interests include computer vision and machine learning, specifically for active learning, feature learning and visual object detection. I am opening to all other interesting topics.
+- 🎓 I received my M.Eng. degree advised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~qxye?language=en) in Electronics and Communication Engineering at [University of Chinese Academy of Sciences (UCAS)](http://english.ucas.ac.cn) in July 2022.
 
-- 📧 Feel free to contact me [here](https://github.com/yuantn/yuantn/issues) or via yuantianning19@mails.ucas.ac.cn.
+- 📚 My research interests include Computer Vision and Machine Learning, specifically for Active Learning and Visual Object Detection. I am opening to all other interesting topics.
+
+- 📧 Feel free to contact me [here](https://github.com/yuantn/yuantn/issues) or via yuantianning1@huawei.com.
 
 ### My Repository
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yuantn&repo=MI-AOD&show_owner=true&title_color=2c86ea&icon_color=2c86ea&text_color=00c800&bg_color=00000000)](https://github.com/yuantn/MI-AOD)
