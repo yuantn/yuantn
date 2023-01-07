@@ -6,7 +6,7 @@
 
 - 🎓 I received my M.Eng. degree advised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~qxye?language=en) in Electronics and Communication Engineering at [University of Chinese Academy of Sciences (UCAS)](http://english.ucas.ac.cn) in July 2022.
 
-- 📚 My research interests include Computer Vision and Machine Learning, specifically for Active Learning and Visual Object Detection. I am opening to all other interesting topics.
+- 📚 My research interests include Computer Vision and Machine Learning, specifically for Active Learning and Visual Object Detection. I am open to all other interesting topics.
 
 - 📧 Feel free to contact me [here](https://github.com/yuantn/yuantn/issues) or via yuantianning1@huawei.com.
 
